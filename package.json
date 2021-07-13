@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Serveur Node accompagné par le framework Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "lofi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulieM-dev/hello-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Julie M-Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulieM-dev/hello-nodejs/issues"
+  },
+  "homepage": "https://github.com/JulieM-dev/hello-nodejs#readme"
+}
