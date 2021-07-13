@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JulieM-dev/hello-nodejs/issues"
   },
-  "homepage": "https://github.com/JulieM-dev/hello-nodejs#readme"
+  "homepage": "https://github.com/JulieM-dev/hello-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
